@@ -1,6 +1,6 @@
 {
   "name": "stm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Takes in a document, spits out a tokenised and stemmed array of terms.",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
     "tap": "^0.4.9"
   },
   "dependencies": {
-    "tkn": "0.0.3",
+    "tkn": "0.0.5",
     "stem-porter": "0.0.1"
   }
 }
