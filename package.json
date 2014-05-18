@@ -27,7 +27,7 @@
     "tap": "^0.4.9"
   },
   "dependencies": {
-    "tkn": "0.0.5",
+    "tkn": "0.x.x",
     "stem-porter": "0.0.1"
   }
 }
