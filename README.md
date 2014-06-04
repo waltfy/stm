@@ -2,6 +2,8 @@ stm
 ===
 [![Build Status](https://travis-ci.org/waltervascarvalho/stm.svg?branch=master)](https://travis-ci.org/waltervascarvalho/stm)
 
+[![Gitter chat](https://badges.gitter.im/waltervascarvalho/stm.png)](https://gitter.im/waltervascarvalho/stm)
+
 Takes in a document, spits out a tokenised and stemmed array of terms. Using Porter's Algorithm.
 
 ### Usage
